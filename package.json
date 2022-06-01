@@ -14,6 +14,6 @@
     "editor"
   ],
   "displayName": "UPM Git Extension",
-  "unity": "2020.1",
+  "unity": "2019.4",
   "type": "tool"
 }
